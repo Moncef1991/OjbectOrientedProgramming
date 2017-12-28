@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>OOP_FirstExemple</name>
+    </assembly>
+    <members>
+        <member name="P:OOP_FirstExemple.Vehicule.manufecuterer">
+            <summary>
+            This value represents the car company
+            </summary>
+            <remarks>The company name</remarks>
+            <value>Cars company names</value>
+        </member>
+        <member name="M:OOP_FirstExemple.Vehicule.painting">
+            <summary>
+            Color functions
+            </summary>
+            <remarks>To change the car color</remarks>
+        </member>
+    </members>
+</doc>

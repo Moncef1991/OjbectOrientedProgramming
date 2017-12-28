@@ -1,0 +1,7 @@
+F:\Visuel Studio Codes\OOP_FirstExemple\OOP_FirstExemple\bin\Debug\OOP_FirstExemple.exe.config
+F:\Visuel Studio Codes\OOP_FirstExemple\OOP_FirstExemple\bin\Debug\OOP_FirstExemple.XML
+F:\Visuel Studio Codes\OOP_FirstExemple\OOP_FirstExemple\bin\Debug\OOP_FirstExemple.exe
+F:\Visuel Studio Codes\OOP_FirstExemple\OOP_FirstExemple\bin\Debug\OOP_FirstExemple.pdb
+F:\Visuel Studio Codes\OOP_FirstExemple\OOP_FirstExemple\obj\Debug\OOP_FirstExemple.csprojResolveAssemblyReference.cache
+F:\Visuel Studio Codes\OOP_FirstExemple\OOP_FirstExemple\obj\Debug\OOP_FirstExemple.exe
+F:\Visuel Studio Codes\OOP_FirstExemple\OOP_FirstExemple\obj\Debug\OOP_FirstExemple.pdb
