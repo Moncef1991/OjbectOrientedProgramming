@@ -4,14 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace OOP_FirstExemple
+namespace Default_ParametrizedConstructor
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Vehicule myVeh = new Vehicule();
-           
         }
     }
 }

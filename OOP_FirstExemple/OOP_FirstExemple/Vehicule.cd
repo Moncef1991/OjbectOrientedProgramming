@@ -3,7 +3,7 @@
   <Class Name="OOP_FirstExemple.Vehicule">
     <Position X="5" Y="1" Width="3" />
     <TypeIdentifier>
-      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAAAEAAACAAAAAAAAIAEg=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAAAAAEAAACAAAAAAAAIAEg=</HashCode>
       <FileName>Vehicule.cs</FileName>
     </TypeIdentifier>
   </Class>

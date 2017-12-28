@@ -7,57 +7,24 @@ namespace OOP_FirstExemple
 {
     public class Vehicule
     {
+
         /// <summary>
         /// This value represents the car company
         /// </summary>
         /// <remarks>The company name</remarks>
         /// <value>Cars company names</value>
-        public string manufecuterer
+        public string manufecuterer;
+        public string model;
+        public string color;
+        public int engineSize;
+
+        /// <summary>
+        /// Default constructor
+        /// </summary>
+        /// <remarks>Constructor</remarks>
+        public Vehicule()
         {
-            get
-            {
-                throw new System.NotImplementedException();
-            }
-
-            set
-            {
-            }
-        }
-
-        public string model
-        {
-            get
-            {
-                throw new System.NotImplementedException();
-            }
-
-            set
-            {
-            }
-        }
-
-        public string color
-        {
-            get
-            {
-                throw new System.NotImplementedException();
-            }
-
-            set
-            {
-            }
-        }
-
-        public int engineSize
-        {
-            get
-            {
-                throw new System.NotImplementedException();
-            }
-
-            set
-            {
-            }
+            Vehicule 
         }
 
         /// <summary>
@@ -65,13 +32,9 @@ namespace OOP_FirstExemple
         /// </summary>
         /// <remarks>To change the car color</remarks>
         public void painting()
-        {
-            throw new System.NotImplementedException();
-        }
-
+        { }
         public void Method()
-        {
-            throw new System.NotImplementedException();
-        }
+        { }
+        
     }
 }
