@@ -1,0 +1,6 @@
+F:\Visuel Studio Codes\Static_Data_Methods\Static_Data_Methods\bin\Debug\Static_Data_Methods.exe.config
+F:\Visuel Studio Codes\Static_Data_Methods\Static_Data_Methods\bin\Debug\Static_Data_Methods.exe
+F:\Visuel Studio Codes\Static_Data_Methods\Static_Data_Methods\bin\Debug\Static_Data_Methods.pdb
+F:\Visuel Studio Codes\Static_Data_Methods\Static_Data_Methods\obj\Debug\Static_Data_Methods.csprojResolveAssemblyReference.cache
+F:\Visuel Studio Codes\Static_Data_Methods\Static_Data_Methods\obj\Debug\Static_Data_Methods.exe
+F:\Visuel Studio Codes\Static_Data_Methods\Static_Data_Methods\obj\Debug\Static_Data_Methods.pdb
