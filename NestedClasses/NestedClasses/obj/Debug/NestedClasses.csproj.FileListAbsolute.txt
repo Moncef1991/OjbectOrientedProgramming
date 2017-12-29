@@ -1,0 +1,6 @@
+F:\Visuel Studio Codes\NestedClasses\NestedClasses\bin\Debug\NestedClasses.exe.config
+F:\Visuel Studio Codes\NestedClasses\NestedClasses\bin\Debug\NestedClasses.exe
+F:\Visuel Studio Codes\NestedClasses\NestedClasses\bin\Debug\NestedClasses.pdb
+F:\Visuel Studio Codes\NestedClasses\NestedClasses\obj\Debug\NestedClasses.csprojResolveAssemblyReference.cache
+F:\Visuel Studio Codes\NestedClasses\NestedClasses\obj\Debug\NestedClasses.exe
+F:\Visuel Studio Codes\NestedClasses\NestedClasses\obj\Debug\NestedClasses.pdb
