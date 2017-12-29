@@ -1,0 +1,5 @@
+F:\Visuel Studio Codes\StaticClasses\StaticClasses\bin\Debug\StaticClasses.exe.config
+F:\Visuel Studio Codes\StaticClasses\StaticClasses\bin\Debug\StaticClasses.exe
+F:\Visuel Studio Codes\StaticClasses\StaticClasses\bin\Debug\StaticClasses.pdb
+F:\Visuel Studio Codes\StaticClasses\StaticClasses\obj\Debug\StaticClasses.exe
+F:\Visuel Studio Codes\StaticClasses\StaticClasses\obj\Debug\StaticClasses.pdb
