@@ -1,0 +1,6 @@
+E:\C#\Visuel Studio Codes\Partial_Classes\Partial_Classes\bin\Debug\Partial_Classes.exe.config
+E:\C#\Visuel Studio Codes\Partial_Classes\Partial_Classes\bin\Debug\Partial_Classes.exe
+E:\C#\Visuel Studio Codes\Partial_Classes\Partial_Classes\bin\Debug\Partial_Classes.pdb
+E:\C#\Visuel Studio Codes\Partial_Classes\Partial_Classes\obj\Debug\Partial_Classes.csprojResolveAssemblyReference.cache
+E:\C#\Visuel Studio Codes\Partial_Classes\Partial_Classes\obj\Debug\Partial_Classes.exe
+E:\C#\Visuel Studio Codes\Partial_Classes\Partial_Classes\obj\Debug\Partial_Classes.pdb
