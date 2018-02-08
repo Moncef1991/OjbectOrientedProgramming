@@ -10,6 +10,12 @@ namespace Partial_Classes
     {
         public void printName() { Console.WriteLine($"Employee name is {name}"); }
         public void printAdress() { Console.WriteLine($"Employee adress is {adress}"); }
-        public void printDepart() { Console.WriteLine($"Employee departement is {departement}"); }
+        partial void MyAge()
+        {
+            Console.WriteLine($"Employee age is {age}");
+        }
+        public void printDepart() { Console.WriteLine($"Employee departement is {departement}");
+            MyAge();
+        }
     }
 }

@@ -11,7 +11,8 @@ namespace Partial_Classes
         public string name = "Moncef Oussaf";
         public string adress = "Rue M";
         public string departement="Hadj Lakhder";
-
+        public int age = 30;
+        partial void MyAge();
         public EmployeesPart() { }
     }
 }
