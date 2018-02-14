@@ -1,0 +1,6 @@
+E:\C#\Visuel Studio Codes\InheritanceClassDiagram\InheritanceClassDiagram\bin\Debug\InheritanceClassDiagram.exe.config
+E:\C#\Visuel Studio Codes\InheritanceClassDiagram\InheritanceClassDiagram\bin\Debug\InheritanceClassDiagram.exe
+E:\C#\Visuel Studio Codes\InheritanceClassDiagram\InheritanceClassDiagram\bin\Debug\InheritanceClassDiagram.pdb
+E:\C#\Visuel Studio Codes\InheritanceClassDiagram\InheritanceClassDiagram\obj\Debug\InheritanceClassDiagram.csprojResolveAssemblyReference.cache
+E:\C#\Visuel Studio Codes\InheritanceClassDiagram\InheritanceClassDiagram\obj\Debug\InheritanceClassDiagram.exe
+E:\C#\Visuel Studio Codes\InheritanceClassDiagram\InheritanceClassDiagram\obj\Debug\InheritanceClassDiagram.pdb
