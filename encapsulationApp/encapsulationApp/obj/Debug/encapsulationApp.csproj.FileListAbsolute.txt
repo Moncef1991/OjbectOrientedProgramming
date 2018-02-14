@@ -1,0 +1,6 @@
+E:\C#\Visuel Studio Codes\encapsulationApp\encapsulationApp\bin\Debug\encapsulationApp.exe.config
+E:\C#\Visuel Studio Codes\encapsulationApp\encapsulationApp\bin\Debug\encapsulationApp.exe
+E:\C#\Visuel Studio Codes\encapsulationApp\encapsulationApp\bin\Debug\encapsulationApp.pdb
+E:\C#\Visuel Studio Codes\encapsulationApp\encapsulationApp\obj\Debug\encapsulationApp.csprojResolveAssemblyReference.cache
+E:\C#\Visuel Studio Codes\encapsulationApp\encapsulationApp\obj\Debug\encapsulationApp.exe
+E:\C#\Visuel Studio Codes\encapsulationApp\encapsulationApp\obj\Debug\encapsulationApp.pdb
