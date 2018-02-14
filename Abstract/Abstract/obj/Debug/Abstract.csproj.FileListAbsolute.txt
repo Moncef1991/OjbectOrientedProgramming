@@ -1,0 +1,6 @@
+E:\C#\Visuel Studio Codes\Abstract\Abstract\bin\Debug\Abstract.exe.config
+E:\C#\Visuel Studio Codes\Abstract\Abstract\bin\Debug\Abstract.exe
+E:\C#\Visuel Studio Codes\Abstract\Abstract\bin\Debug\Abstract.pdb
+E:\C#\Visuel Studio Codes\Abstract\Abstract\obj\Debug\Abstract.csprojResolveAssemblyReference.cache
+E:\C#\Visuel Studio Codes\Abstract\Abstract\obj\Debug\Abstract.exe
+E:\C#\Visuel Studio Codes\Abstract\Abstract\obj\Debug\Abstract.pdb
