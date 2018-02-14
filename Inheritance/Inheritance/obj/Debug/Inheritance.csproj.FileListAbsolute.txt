@@ -1,0 +1,6 @@
+E:\C#\Visuel Studio Codes\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+E:\C#\Visuel Studio Codes\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+E:\C#\Visuel Studio Codes\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+E:\C#\Visuel Studio Codes\Inheritance\Inheritance\obj\Debug\Inheritance.csprojResolveAssemblyReference.cache
+E:\C#\Visuel Studio Codes\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+E:\C#\Visuel Studio Codes\Inheritance\Inheritance\obj\Debug\Inheritance.pdb
