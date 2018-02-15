@@ -1,0 +1,6 @@
+E:\C#\Visuel Studio Codes\SealedClasses\SealedClasses\bin\Debug\SealedClasses.exe.config
+E:\C#\Visuel Studio Codes\SealedClasses\SealedClasses\obj\Debug\SealedClasses.csprojResolveAssemblyReference.cache
+E:\C#\Visuel Studio Codes\SealedClasses\SealedClasses\bin\Debug\SealedClasses.exe
+E:\C#\Visuel Studio Codes\SealedClasses\SealedClasses\bin\Debug\SealedClasses.pdb
+E:\C#\Visuel Studio Codes\SealedClasses\SealedClasses\obj\Debug\SealedClasses.exe
+E:\C#\Visuel Studio Codes\SealedClasses\SealedClasses\obj\Debug\SealedClasses.pdb
